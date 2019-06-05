@@ -2,11 +2,11 @@
 
 ### 配置
 
-![0SystemInfo](ScreenShot/0SystemInfo.png)
+![0SystemInfo](ScreenShot/archey_10.15.png)
 
 ### 截屏
 
-![1ABOUT](ScreenShot/1ABOUT.png)
+![1ABOUT](ScreenShot/10.15.png)
 
 ![2DISPLAYS](ScreenShot/2DISPLAYS.png)
 
@@ -27,3 +27,5 @@
 ![9DISPLAY](ScreenShot/9DISPLAY.png)
 
 ![10POWERSAVE](ScreenShot/10POWERSAVE.png)
+
+![sysconfig](ScreenShot/sysconfig.png)
