@@ -51,3 +51,8 @@
 ![10POWERSAVE](ScreenShot/10POWERSAVE.png)
 
 ![sysconfig](ScreenShot/sysconfig.png)
+
+## EFI下载
+
+https://github.com/daliansky/Z370-Hackintosh/releases
+
