@@ -52,6 +52,8 @@
 
 ![sysconfig](ScreenShot/sysconfig.png)
 
+![WeChatandShop](ScreenShot/WeChatandShop.png)
+
 ## EFI下载
 
 https://github.com/daliansky/Z370-Hackintosh/releases
