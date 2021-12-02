@@ -19,10 +19,14 @@
 
 ### 更新日志
 
+- 12-2-2021
+  - 更新`OpenCore` `v0.7.6`
+  - 支持 `Monterey` / `Big Sur` 安装使用
+	
 - 1-11-2021
   - 更新`OpenCore` `v0.6.6`
   - 更新驱动程序到最新
-		![OC_v0.6.6](ScreenShot/OC_v0.6.6.png)
+  	![OC_v0.6.6](ScreenShot/OC_v0.6.6.png)
 
 ### 截屏
 
